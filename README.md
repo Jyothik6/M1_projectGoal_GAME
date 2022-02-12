@@ -12,6 +12,8 @@
 ![code grade](https://api.codiga.io/project/31252/score/svg)
 
 
+![codacy badge](https://api.codiga.io/project/31252/status/svg)
+
 ![Screenshot (73)](https://user-images.githubusercontent.com/73483399/153709152-9ae26731-8315-4df8-8543-518813f0b346.png)
 
 
